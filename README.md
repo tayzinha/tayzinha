@@ -3,6 +3,8 @@
 <code>
   
   <img src="https://upload.wikimedia.org/wikipedia/pt/7/77/League_of_Legends_logo.png" widht="25" height="25">
-  </code>
+  </code><br>
+
+<b>"i tried to drown all the pills"</b>
 
 
