@@ -8,6 +8,7 @@
   </code><br>
 
 <b>● Operation Systems</b>
+
 <code>
   <img src="https://img.ibxk.com.br/2019/06/21/21132926873068.jpg?w=1120&h=420&mode=crop&scale=both" widht="25" height="25">
   <img src="https://logodownload.org/wp-content/uploads/2014/09/iphone-logo.jpg" widht="25" height="25">
