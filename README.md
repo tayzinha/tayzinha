@@ -1,4 +1,4 @@
-<img align="left" src="gif.gif" widht="210" height="210">
+<img align="center" src="original.gif">
 <img src="https://img.shields.io/badge/I'm playing-yellow">
 
 <code>
