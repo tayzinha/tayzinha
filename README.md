@@ -1,9 +1,8 @@
 <img align="left" src="gif.gif" widht="210" height="210">
-<b>• Playing at the moment</b>
-<br>
+<img src="https://img.shields.io/badge/Playing-yellow">
 <code>
   
-  <img src="https://img.ibxk.com.br/2019/07/26/26171514413327.jpg" widht="25" height="25">
+  <img src="https://upload.wikimedia.org/wikipedia/pt/7/77/League_of_Legends_logo.png" widht="25" height="25">
   </code>
 
 
