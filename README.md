@@ -13,6 +13,6 @@
   <img src="https://img.ibxk.com.br/2019/06/21/21132926873068.jpg?w=1120&h=420&mode=crop&scale=both" widht="25" height="25">
   <img src="https://logodownload.org/wp-content/uploads/2014/09/iphone-logo.jpg" widht="25" height="25">
   </code>
-
-<b>"I tried to drown all the pills."</b>
+  
+<img src="https://pa1.narvii.com/6539/f47caf2747194bc8eaa08661e9241673e3dab3b6_hq.gif" align="center">
 
