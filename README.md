@@ -14,5 +14,5 @@
   <img src="https://logodownload.org/wp-content/uploads/2014/09/iphone-logo.jpg" widht="25" height="25">
   </code>
   
-<img src="https://pa1.narvii.com/6539/f47caf2747194bc8eaa08661e9241673e3dab3b6_hq.gif" align="center">
+<img src="https://pa1.narvii.com/6539/f47caf2747194bc8eaa08661e9241673e3dab3b6_hq.gif" align="left">
 
