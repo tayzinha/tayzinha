@@ -14,8 +14,4 @@
   <img src="https://logodownload.org/wp-content/uploads/2014/09/iphone-logo.jpg" widht="25" height="25">
   </code>
   
-<img src="https://mundoencantado.info/ursinhos_teddy/gifs_ursinhos_teddy_32.gif" align="left"><br><br>
-
-
-
-<h1>i tried to drown all the pills</h1>
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qcbpvowwgsekyr49h3oeebmv6)
