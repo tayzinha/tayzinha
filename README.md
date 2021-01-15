@@ -16,4 +16,5 @@
 
 <img src="https://mundoencantado.info/ursinhos_teddy/gifs_ursinhos_teddy_32.gif">
 <b>"I tried to drown all the pills."</b>
+
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qcbpvowwgsekyr49h3oeebmv6)
